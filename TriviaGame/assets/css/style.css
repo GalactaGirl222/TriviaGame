@@ -104,6 +104,6 @@ img {
 }
 
 #triviaBlock{
-    background-image: url('../images/images.png');
+    background-color: #ffa101;
     color: inherit;
 }
